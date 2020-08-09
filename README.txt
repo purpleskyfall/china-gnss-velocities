@@ -35,3 +35,5 @@ Units for the records:
     Vx: Velocity(mm/yr) in X component
     Vy: Velocity(mm/yr) in Y component
     Vz: Velocity(mm/yr) in Z component
+
+See the image file for the station distribution.
